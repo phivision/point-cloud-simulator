@@ -1,2 +1,3 @@
 # PhiVision LiDAR Simulator
-This simualtor is designed by Fanghao Yang
+
+This simulator is designed by Fanghao Yang, Phi Vision Inc. 2020
